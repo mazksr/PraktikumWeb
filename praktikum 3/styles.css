@@ -1,0 +1,9 @@
+.img-custom {
+    margin: 10px;
+}
+
+.body-custom {
+    max-width: 1000px; 
+    margin: 0 auto; 
+    color: white;
+}
